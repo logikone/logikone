@@ -44,4 +44,3 @@ jobs:
         plugin_followup_archived: yes
         plugin_followup_indepth: yes
         plugin_followup_sections: repositories
-        repositories_forks: yes
